@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="persistence"/>
+<aop-project name="ms-usuarios-service"/>
+<aop-project name="ms--proveedores"/>
+<aop-project name="exam_sofware_enginner"/>
+<aop-project name="Carro"/>
+<aop-project name="ms-productos"/>
+<aop-project name="moto-service"/>
+</aop-reference-model>
